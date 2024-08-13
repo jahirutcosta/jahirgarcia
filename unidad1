@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <!-- Titulo y descripcion ================================================== -->
+    <meta name="csrf-param" content="authenticity_token">
+    <meta name="csrf-token" content="mpFid4elb6nXdRVa2x2cUiMDOMEkqPkA6o4hnciY4tqjpSBg9p/Ht8wKE91zfjviHdRvnEZ+Xoa/nCTvDgQZMg==">
+    <meta charset="utf-8">
+    <title>Página principal Unidad 1</title>
+    <style>
+        body {
+            background-color: #0E1726;
+            color: white; /* Asegura que el texto sea legible sobre el fondo oscuro */
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+        .banner {
+            background-color: black;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            margin-bottom: 20px;
+            font-size: 24px;
+        }
+        .content a {
+            color: lightblue; /* Asegura que los enlaces sean visibles */
+            display: block;
+            margin: 5px 0;
+            text-decoration: none;
+        }
+        .content {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="banner">
+        Unidad 1 Ambientes de Desarrollo Web
+    </div>
+    <div class="content">
+        <a href="universidad/WEB-INF/web.xml">1. Universidad</a>
+        <a href="utc">2. UTC</a>
+        <a href="utdelacosta0">3. UT de la costa</a>
+        <a href="pasteleria/index.jsp">4. Pastelería</a>
+        <a href="papeleria/index.jsp">5. Papelería</a>
+        <a href="panaderia/-">6. Panadería</a>
+        <a href="refaccionariatepic/-">7. Refaccionaria Tepic</a>
+        <a href="micasa/-">8. Mi casa</a>
+        <a href="13restaurante/-">9. 13-Restaurante</a>
+        <a href="zapateria120/-">10. Zapatería</a>
+        <a href="panteón/-">11. Panteón</a>
+        <a href="pingüino/-">12. Pingüino</a>
+        <a href="niño/">13. niño</a>
+        <a href="establo_nayarit/">14. establo_nayarit</a>
+        <a href="1234567890/-">15. 1234567890</a>
+        <a href="fruteria/index.jsp">16. Frutería</a>
+        <a href="restaurante/index.jsp">17. Restaurante</a>
+        <a href="cine/index.jsp">18. Cine</a>
+        <a href="veterinaria/index.jsp">19. Veterinaria</a>
+        <a href="dulceria/index.jsp">20. Dulceria</a>
+        <a href="discoteca/index.jsp">21. Discoteca</a>
+        <a href="barberia/index.jsp">22. Barberia</a>
+        <a href="jugueteria/index.jsp">23. Jugueteria</a>
+        <a href="hospital/index.jsp">24. Hospital</a>
+        <a href="carcel/index.jsp">25. Carcel</a>
+        <a href="examen-unidad1/index.html">26. Exámen</a>
+        <a href="javascript:history.back()">26. Volver a la página anterior</a>
+
+    </div>
+</body>
+</html>
